@@ -1,0 +1,29 @@
+nav{
+    background-color: #040b14;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    padding: 5px 0;
+    z-index: 1;
+}
+
+nav h1{
+    margin: 10px;
+    font-size: 30px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+}
+
+nav ul li{ 
+    margin: 10px 30px;
+    cursor: pointer;
+}
+

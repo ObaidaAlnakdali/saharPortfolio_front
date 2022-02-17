@@ -1,0 +1,17 @@
+.project{
+    flex: 0 0 25%;
+    max-width: 25%;
+    margin: 30px;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.project img{
+    width: 100%;
+    border-radius: 30px;
+    transition: all 0.5s;
+}
+
+.project img:hover{
+    transform: scale(1.2);
+}

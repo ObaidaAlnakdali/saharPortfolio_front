@@ -1,0 +1,20 @@
+.footer{
+    width: 100%;
+    background-color: #040B14;
+    color: white;
+    text-align: center;
+ }
+
+ul{
+  display: flex;
+  justify-content: center;
+}
+
+ #photo{
+     margin-right: 70px;
+ } 
+
+ h4 {
+    margin-left: -29px;
+    margin-bottom: -5px;    
+  }

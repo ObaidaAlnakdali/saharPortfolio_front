@@ -1,0 +1,24 @@
+.skill-container{
+    flex-basis: 33%;
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.skill {
+    height: 125px;
+    background: #FFFFFF;
+    box-shadow: 0px 13px 4px rgb(0 0 0 / 25%);
+    border-radius: 70px;
+    transition: margin 0.3s;
+}
+
+.Skillimg {
+    width: 100px;
+    height: 100px;
+    margin: 12px;
+}
+
+.skill:hover {
+    margin-top: -10px;
+}
